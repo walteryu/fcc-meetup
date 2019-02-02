@@ -37,3 +37,7 @@ This repository contains presentation/files for the [FCC Sacramento](https://www
 1. Clone, Change and Push this Repository
 2. JS, GIS and Git - Civic Innovation Challenge [Demo](https://github.com/walteryu/ncic)
 3. Free Code Camp - Follow Instructions in the [Guides](https://guide.freecodecamp.org/)
+
+### Homework
+
+Clone, edit and push to your repo.
