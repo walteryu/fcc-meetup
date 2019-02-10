@@ -65,7 +65,7 @@ Login to your Github account and add your SSH key:
   * Stage changes: `git add README.md`
   * Commit changes: `git commit -m "update readme"`
   * Sync with repository: `git pull origin master`
-  * Push changes: `git pull origin master`
+  * Push changes: `git push origin master`
 5. Refresh your repository on Github to see change
 
 ## Exercise 6 - More Git Practice
